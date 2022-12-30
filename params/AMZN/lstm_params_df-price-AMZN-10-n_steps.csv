@@ -1,0 +1,8 @@
+,lstm
+color,#6b6a6a
+dropout_rate,0.5
+l1_reg,0.0
+label,LSTM
+model,
+n_units,180
+network,<function LSTM_ at 0x7fc5a01c50d0>

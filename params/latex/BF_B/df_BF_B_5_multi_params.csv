@@ -1,0 +1,15 @@
+,rnn,lstm,alpha_t_RIM
+dropout_rate,0.3,0.7,-
+l1_reg,0.0,0.0,-
+n_units,70,150,16
+comm_keep_prob,-,-,0.7
+comm_key_size,-,-,4
+comm_query_size,-,-,4
+comm_value_size,-,-,10
+input_keep_prob,-,-,0.9
+input_key_size,-,-,10
+input_query_size,-,-,10
+input_value_size,-,-,12
+k,-,-,10
+nRIM,-,-,14
+num_comm_heads,-,-,8

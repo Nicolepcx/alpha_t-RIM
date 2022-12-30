@@ -1,0 +1,8 @@
+,rnn
+color,#d3d1d1
+dropout_rate,0.5
+l1_reg,0.0
+label,RNN
+model,
+n_units,150
+network,<function SimpleRNN_ at 0x7ffd2920a048>

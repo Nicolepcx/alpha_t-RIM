@@ -1,0 +1,17 @@
+,alpha_t_RIM
+color,#d3d1d1
+comm_keep_prob,0.7
+comm_key_size,6
+comm_query_size,6
+comm_value_size,12
+input_keep_prob,0.9
+input_key_size,6
+input_query_size,6
+input_value_size,6
+k,10
+label,RIM-alpha_t
+model,
+nRIM,14
+n_units,8
+network,<function RIM_ at 0x7f84d9142b70>
+num_comm_heads,6
