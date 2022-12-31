@@ -46,3 +46,13 @@ This code is under a CC-NC license, which means the followin:
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 
+## Cite
+Cite as: 
+@misc{nicolepcx,
+author = {Nicole Königstein},
+title = {Dynamic and Context-Dependent Stock Price Prediction Using Attention Modules and News Sentiment},
+year = {2021},
+publisher = {GitHub},
+journal = {GitHub repository},
+howpublished = {\url{https://github.com/Nicolepcx/alpha t-RIM}}
+}
